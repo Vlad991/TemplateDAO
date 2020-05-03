@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TemplateDAO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TemplateDAO_jar</output-path>
+    <root id="archive" name="TemplateDAO.jar">
+      <element id="module-output" name="TemplateDAO" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libs/JDBC/MySQL/mysql-connector-java-8.0.13.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
